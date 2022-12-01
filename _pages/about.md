@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Joseph Tighe"
-excerpt: "I'm a Sr. Applied Science Manager at Amazon AWS AI working in Computer Vision. I'm interested in detection, video classification, tracking and self-supervised learning. I was part of the initial Rekogntion video launch. Before I came to AWS I was part of the team that launched Amazon GO. Before that I got my PhD under the supervision of Svetlana Lazebnik at UNC Chapel Hill with a focus on non-parametric methods for semantic segmentation."
+title: "Vijay Mahadevan"
+excerpt: "I'm a Senior Applied Science Manager at Amazon AWS AI working on Computer Vision, Deep Learning and Document Understanding. I lead a team of scientists working on [AWS Textract](https://aws.amazon.com/textract/). I'm interested in large vision+language models, document OCR and scene text recognition, visual question answering (VQA), document VQA, extracting tabular data from documents, layout understanding, video analysis, tracking and self-supervised learning. I obtained my PhD at UC San Diego."
 author_profile: true
 redirect_from: 
   - /about/
